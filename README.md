@@ -1,9 +1,8 @@
-# GUN Chat Dapp Demo
+# ANON chat
 
 A decentralized chat app built with [GUN](https://gun.eco/). 
 
-- Try the [Live Demo](https://gun-chat-dapp.web.app/)
-- Watch the [Chat Dapp Video](https://youtu.be/J5x3OMXjgMc)
+- Try the [Live Demo](https://anon-chat1.vercel.app/)
 
 ```
 git clone <this-repo>
